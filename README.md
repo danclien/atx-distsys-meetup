@@ -4,7 +4,7 @@
 
 * SOA
 	* Scott Bellware
-* Lambda architecture
+* Lambda architecture (4)
 	* Andrew Donoho
 * Messaging queues
 * Web services
@@ -14,16 +14,16 @@
 * Actors
 	* Tristan Slominski
 * Futures
-* Object capability
+* Object capability (4)
 	* Tristan Slominski
 * REST
 * Anti-patterns
-* Distributed Hash Table
-	* Andrew Pinkham
+* Distributed Hash Table 
+	* Andrew Pinkham (1)
 * Databases
 * Anonymizing (onion routing/Tor)
 * Distributed concensus
-	* Paul Frazee (RAFT)
+	* Paul Frazee (RAFT) (2)
 * "Data center as a computer," Apache Mezos
 * Gossip, anti-entropy
 	* Tristan Slominski
@@ -35,9 +35,9 @@
 * CAP
 * Discovery
 * Decentralization
-	* Norman Richards (Bitcoin architectures)	
+`	* Norman Richards (Bitcoin architectures)	
 * Exemplars
-	* Andrew Donoho (DNS)
+	* Andrew Donoho (DNS) (3)
 * Mesh networks
 * Monitoring
 * Analytics
