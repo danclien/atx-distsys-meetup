@@ -51,3 +51,5 @@
 	* Paul Frazee
 * Fallacies of Distributed Computing
 	* Scott Bellware
+* Event sourcing
+* CQRS
