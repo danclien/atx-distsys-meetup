@@ -3,22 +3,30 @@
 ## Possible Topics
 
 * SOA
+	* Scott Bellware
 * Lambda architecture
+	* Andrew Donoho
 * Messaging queues
 * Web services
 * Enterprise Service Bus (ESB)
 * Sagas
+	* Scott Bellware
 * Actors
+	* Tristan Slominski
 * Futures
 * Object capability
+	* Tristan Slominski
 * REST
 * Anti-patterns
 * Distributed Hash Table
+	* Andrew Pinkham
 * Databases
 * Anonymizing (onion routing/Tor)
 * Distributed concensus
+	* Paul Frazee (RAFT)
 * "Data center as a computer," Apache Mezos
 * Gossip, anti-entropy
+	* Tristan Slominski
 * Idioms
 * First principles
 * Vector clocks
@@ -27,7 +35,9 @@
 * CAP
 * Discovery
 * Decentralization
-* Exemplars (eg. DNS)
+	* Norman Richards (Bitcoin architectures)	
+* Exemplars
+	* Andrew Donoho (DNS)
 * Mesh networks
 * Monitoring
 * Analytics
@@ -37,3 +47,7 @@
 * Vulnerabilities
 * Deployment
 * Languages
+* CALM architecture
+	* Paul Frazee
+* Fallacies of Distributed Computing
+	* Scott Bellware
